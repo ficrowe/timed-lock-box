@@ -21,4 +21,4 @@ Arduino Nano-powered timed lock box.
 ![Arduino Nano Circuit Diagram](photos/circuit%20diagram.jpg)
 
 ## Process Explanation
-
+[Documentation of process & challenges](documentation.pdf)
